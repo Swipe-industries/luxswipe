@@ -1,5 +1,5 @@
 ## Declaring Variables
-```json
+```
 String name = 'John';
 int age = 25;
 double height = 5.9;
