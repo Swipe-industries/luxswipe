@@ -1,18 +1,18 @@
-// ## Declaring Variables
-
+## Declaring Variables
+```json
 String name = 'John';
 int age = 25;
 double height = 5.9;
 bool isStudent = true;
-
-// ## Functions
-
+```
+## Functions
+```json
 int add(int a, int b) {
   return a + b;
 }
-
-//  ## Control Flow
-
+```
+## Control Flow
+```json
 // if-else statement
 if (isStudent) {
   print('Student');
@@ -32,9 +32,9 @@ switch (grade) {
   default:
     print('Needs improvement');
 }
-
-// ## Loops
-
+```
+## Loops
+```json
 // for loop
 for (int i = 0; i < 5; i++) {
   print(i);
@@ -46,9 +46,9 @@ while (count < 3) {
   print('Count: $count');
   count++;
 }
-
-// ## Classes and Objects 
-
+```
+## Classes and Objects 
+```json
 class Person {
   String name;
   int age;
@@ -59,7 +59,7 @@ class Person {
     print('Hello, my name is $name and I am $age years old.');
   }
 }
-
+```
 // Creating an object
 var person = Person('Bob', 25);
 person.sayHello();
