@@ -6,13 +6,13 @@ double height = 5.9;
 bool isStudent = true;
 ```
 ## Functions
-```json
+```
 int add(int a, int b) {
   return a + b;
 }
 ```
 ## Control Flow
-```json
+```
 // if-else statement
 if (isStudent) {
   print('Student');
@@ -34,7 +34,7 @@ switch (grade) {
 }
 ```
 ## Loops
-```json
+```
 // for loop
 for (int i = 0; i < 5; i++) {
   print(i);
@@ -48,7 +48,7 @@ while (count < 3) {
 }
 ```
 ## Classes and Objects 
-```json
+```
 class Person {
   String name;
   int age;
