@@ -1,2 +1,2 @@
-## LuxSwipe-
-# Follow - Docs/Code Style
+# LuxSwipe-
+Follow - 
