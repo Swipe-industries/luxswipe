@@ -1,2 +1,2 @@
 # LuxSwipe-
-Follow - [Code Style](https://github.com/thevaidik/LuxSwipe-/blob/2ee0b882123d78461b6353d8a612e8c3148334fb/Docs/Code%20Style.md)
+Follow - [Code Style](https://github.com/thevaidik/LuxSwipe-/blob/ba07713eb1a0b0bc81fd0bd6f1fbbaa8e8b9003e/Docs/Code%20Style.md)
