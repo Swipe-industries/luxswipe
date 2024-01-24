@@ -7,22 +7,28 @@ bool isStudent = true;
 ```
 ## Functions
 ```
-int add(int a, int b) {
+int add(int a, int b)
+{
   return a + b;
 }
 ```
 ## Control Flow
 ```
 // if-else statement
-if (isStudent) {
+
+if (isStudent)
+{
   print('Student');
-} else {
+}
+else
+{
   print('Not a student');
 }
 
 // switch statement
 String grade = 'A';
-switch (grade) {
+switch (grade)
+{
   case 'A':
     print('Excellent');
     break;
@@ -36,26 +42,30 @@ switch (grade) {
 ## Loops
 ```
 // for loop
-for (int i = 0; i < 5; i++) {
+for (int i = 0; i < 5; i++)
+{
   print(i);
 }
 
 // while loop
 int count = 0;
-while (count < 3) {
+while (count < 3)
+{
   print('Count: $count');
   count++;
 }
 ```
 ## Classes and Objects 
 ```
-class Person {
+class Person
+{
   String name;
   int age;
 
   Person(this.name, this.age);
 
-  void sayHello() {
+  void sayHello()
+  {
     print('Hello, my name is $name and I am $age years old.');
   }
 }
